@@ -1,9 +1,8 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 # Hello World
 
 > This is my first project as a Microverse student.
 
-![screenshot](./SS-hello-world.png)
+![screenshot](SS-hello-world.png)
 
 In this project I made this repository with my new knowledge that I learned in my second day at Microverse.
 
