@@ -1,4 +1,8 @@
 h1 {
-  background-color: aqua;
+  background-color: #00ffff;
   font-family: monospace;
+}
+.helloClass {
+  color: #076AE3;
+  text-align: center;
 }
