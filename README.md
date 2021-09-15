@@ -2,7 +2,7 @@
 
 > This is my first project as a Microverse student.
 
-![screenshot](image/SS-hello-world.png)
+![screenshot](image/SS-hello-Microverse.png)
 
 In this project I made this repository with my new knowledge that I learned in my second day at Microverse.
 
