@@ -3,6 +3,7 @@
 *.int
 *.lk
 *.zip
+test.md
 # .gitignore
 node_modules/
-test.md
+
