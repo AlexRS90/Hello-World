@@ -25,7 +25,7 @@ In this project I made this repository with my new knowledge that I learned in m
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](Hello-World/issues).
+Feel free to check the [issues page](https://github.com/AlexRS90/Hello-World/issues).
 
 ## Show your support
 
